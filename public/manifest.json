@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Donkey ears",
+    "version": "1.0",
+    "description": "comments of comments, comments above comments",
+    "action": {
+        "default_popup":"popup.html"
+    }
+}    

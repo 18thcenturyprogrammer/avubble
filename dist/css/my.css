@@ -1,0 +1,13 @@
+.container {
+    max-width: 1000px;
+    min-width: 750px;
+}
+
+.ui.action.input input[type="file"] {
+    display: none;
+  }
+
+thead , tfoot {
+    background-color: #c7c2bb;
+}
+
