@@ -19,9 +19,10 @@ Texteditor: vscode
 ### Youtube link
 [Watch how it works](https://youtu.be/ZOWK1SwIwf8)
 
-### references
-chrome extension cheat sheet https://docs.google.com/document/d/15ZjVOBzJgluZNxmR608__c0F8qYgU6QGKNooFgkavOI/edit?usp=share_link
+## references  
 
+### chrome extesion
+chrome extension cheat sheet https://docs.google.com/document/d/15ZjVOBzJgluZNxmR608__c0F8qYgU6QGKNooFgkavOI/edit?usp=share_link
 chrome extension youtube playlist by nori soft https://www.youtube.com/watch?v=Nd2bAJbrlN0&list=PLwlNvVIUtWpsjFKGfIXKOz3CjUfg_aQN4
 
 semantic UI docs https://react.semantic-ui.com/
@@ -34,9 +35,8 @@ opensea testent https://testnets.opensea.io/
 
 
 contract address
-*mumbai matic https://mumbai.polygonscan.com/address/0x0000000000000000000000000000000000001010
-
-*avubble https://mumbai.polygonscan.com/address/0x3e875D6994118Ad252bC4B5ee179557532Dd26Ae#code
+mumbai matic https://mumbai.polygonscan.com/address/0x0000000000000000000000000000000000001010
+avubble https://mumbai.polygonscan.com/address/0x3e875D6994118Ad252bC4B5ee179557532Dd26Ae#code
 
 
 avubble development summary https://jacob-cs.tumblr.com/post/696838986612736000/donkey-ears-chrome-extension-blockchain-react
