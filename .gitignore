@@ -2,3 +2,5 @@
 *.env
 node_modules
 venv
+donkey_ears/donkey_ears/db.sqlite3
+donkey_ears/donkey_ears/db_bkup.sqlite3
