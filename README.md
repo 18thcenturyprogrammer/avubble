@@ -5,6 +5,7 @@ UserKey feature is user able to mint their content with one click.
 Users also can vote on comment and content and they can send AVBB(this project’s token) and Matic to other user as compliment.
 
 API server : django, django rest framework
+
 DB: sqlite
 
 Front end : react , react semantic UI
